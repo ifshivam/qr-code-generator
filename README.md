@@ -43,6 +43,3 @@ Contributions are welcome! Please follow these steps:
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
-## License
-
-[Insert license information]
